@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">335150669922-c51jqdvk54r7lpsod7e206ast5o5o1f8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://test-login-server-e5998.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">335150669922</string>
+    <string name="google_api_key" translatable="false">AIzaSyC4fqnD9iC9Rpsz08m_DNecMoFwr4mnEok</string>
+    <string name="google_app_id" translatable="false">1:335150669922:android:75d9514b2dd4d06cb8713b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC4fqnD9iC9Rpsz08m_DNecMoFwr4mnEok</string>
+    <string name="google_storage_bucket" translatable="false">test-login-server-e5998.appspot.com</string>
+    <string name="project_id" translatable="false">test-login-server-e5998</string>
+</resources>
